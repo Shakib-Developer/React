@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: rgb(22, 22, 22);
+}
+
+.title {
+  width: 24%;
+  padding: 6px;
+}
+.Add {
+  color: blanchedalmond;
+  background-color: #000;
+}

@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahammed",
+      "skill": "Programmer"
+    },
+    {
+      "id": 2,
+      "name": "Muhammad",
+      "skill": "Doctor"
+    },
+    {
+      "id": 3,
+      "name": "Raka",
+      "skill": "Artist"
+    },
+    {
+      "id": 1,
+      "name": "Joti",
+      "skill": "Magician"
+    }
+  ]
+}
